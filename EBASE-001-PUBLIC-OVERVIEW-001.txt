@@ -1,0 +1,200 @@
+DOCUMENT_ID: EBASE-001-PUBLIC-OVERVIEW-001
+VERSION: 1.0
+TITLE: Elias Discipline — Public Overview of the First Frozen Canonical Baseline
+STATUS: PUBLIC REFERENCE DERIVATIVE
+SOURCE_BASELINE: EBASE-001 v1.0.0
+SOURCE_BASELINE_STANDING: FROZEN-CANONICAL
+CANONICAL_MANIFEST_SHA256: c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
+DERIVATIVE_CLASS: PUB-4 — COMMENTARY / PUBLIC EXPLANATION
+RELATION_TO_CANON: NOT CANON
+
+1. What the Elias Discipline Is
+
+The Elias Discipline is the systematic study and practice of how identity, intention, observation, evidence, authority, governance, intelligence, execution and accountability should relate in human and technological systems so that capability remains constitutionally aligned with benevolent purpose.
+
+Its governing question is:
+
+How can a person, institution or intelligent system acquire and exercise capability without losing the identity, purpose, truthfulness, human agency and moral constraints that justify that capability in the first place?
+
+2. Constitutional Ordering
+
+The first frozen baseline preserves the ordering:
+
+IDENTITY
+→ PURPOSE
+→ CONSTITUTIONAL PRINCIPLES
+→ GOVERNANCE
+→ INTELLIGENCE
+→ EXECUTION
+→ WITNESS
+
+The discipline rejects the idea that downstream capability can create its own upstream authority.
+
+3. Core Constitutional Propositions
+
+The baseline includes the following governing distinctions:
+
+IDENTITY PRECEDES AUTHORITY
+INTENTION PRECEDES INTELLIGENCE
+PURPOSE GOVERNS CAPABILITY
+OBSERVATION ≠ DETERMINATION
+UNCERTAINTY IS AN ADMISSIBLE STATE
+PROVENANCE ≠ TRUTH
+CAPABILITY ≠ AUTHORITY
+AUTHORITY ≠ ADMISSIBILITY
+DETERMINATION ≠ EXECUTION
+BENEVOLENCE ≠ AUTHORITY
+HUMAN SOVEREIGNTY MUST REMAIN PROTECTED
+CORRECTION ≠ HISTORICAL ERASURE
+
+4. What v1.0.0 Contains
+
+The frozen baseline contains 55 manifest-level canonical objects organised into six packages:
+
+P01 — Constitutional Root
+5 objects
+
+P02 — Semantics & Standards
+12 objects
+
+P03 — Foundational Theory
+21 objects
+
+P04 — Methods & Registries
+5 manifest objects plus 29 specialist method subobjects
+
+P05 — Education & Professional Formation
+9 manifest objects plus 45 competency subobjects and 6 assessment-family subobjects
+
+P06 — Provenance & Traceability
+3 objects
+
+5. Foundational Theory
+
+The baseline contains 21 foundational theories.
+
+They cover:
+- identity and continuity;
+- love as governance;
+- human sovereignty;
+- epistemic determination;
+- present standing;
+- authority;
+- runtime governance;
+- admissibility;
+- witness/provenance;
+- correctability;
+- research;
+- independence;
+- trust and attestation;
+- agency/delegation;
+- responsibility/accountability;
+- risk/proportionality/irreversibility;
+- challenge/review;
+- consent/participation/representation;
+- fairness;
+- privacy/data sovereignty;
+- transparency/explainability.
+
+6. Methodology
+
+The registered method set contains:
+
+1 Core Method
+29 Specialist Methods
+30 Registered Methods Total
+
+The Core Method contains fourteen steps from exact object constitution through consequence witness and correction/supersession.
+
+7. Education
+
+The Elias Discipline curriculum contains exactly six levels:
+
+Level 1 — Foundations
+Level 2 — Human Systems
+Level 3 — Epistemology
+Level 4 — Constitutional Governance
+Level 5 — Governed Engineering
+Level 6 — Applied Elias
+
+There is no Level 7 in v1.0.0.
+
+8. Professional Boundary
+
+Elias qualification or professional standing does not itself create:
+- legal authority;
+- clinical authority;
+- regulatory authority;
+- external accreditation;
+- licensed engineering authority;
+- statutory safeguarding authority.
+
+Where external authority is required, the Discipline permits the stop state:
+
+OUTSIDE SCOPE — EXTERNAL AUTHORITY REQUIRED
+
+9. Evidence and Examination
+
+The baseline was promoted from the exact constituted release candidate:
+
+EBASE-001-RC1
+
+after:
+- EID provenance source-object binding;
+- FG-12 External Authority & Jurisdiction Boundary Examination;
+- FG-14 Whole-RC Adversarial Examination;
+- DCP-4 physical/digest dependency validation;
+- 15/15 freeze-gate pass.
+
+These are internal Elias examination records unless separately independently examined.
+
+10. Frozen Does Not Mean Infallible
+
+FROZEN-CANONICAL does not mean:
+- universally true;
+- externally certified;
+- legally authoritative;
+- empirically proven in every domain;
+- incapable of challenge.
+
+Freeze means the exact historical baseline will no longer be rewritten.
+
+Future correction must occur through successor lineage.
+
+11. Canonical Identity
+
+The exact first frozen canonical baseline is:
+
+EBASE-001 v1.0.0
+
+Canonical Manifest SHA-256:
+
+c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
+
+12. Canonical Citation
+
+Preferred:
+
+Elias Discipline, EBASE-001 v1.0.0, Frozen Canonical Baseline,
+Canonical Manifest SHA-256: c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
+
+13. Verification Rule
+
+A public copy may be treated as an exact canonical copy only if its canonical manifest digest matches:
+
+c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
+
+14. Current Canon Pointer
+
+At publication of this Public Reference Pack:
+
+CURRENT CANON:
+EBASE-001 v1.0.0
+
+15. Public Reference Boundary
+
+This document is a public explanatory derivative.
+
+It is not itself the Canon.
+
+Where this overview and the frozen canonical baseline differ, the frozen baseline governs.
