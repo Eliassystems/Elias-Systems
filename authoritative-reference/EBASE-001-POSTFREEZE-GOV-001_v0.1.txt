@@ -1,0 +1,588 @@
+OBJECT_ID: EBASE-001-POSTFREEZE-GOV-001
+VERSION: 0.1
+TITLE: Elias Discipline Post-Freeze Canonical Publication, Stewardship & Successor Governance Activation Record
+STATUS: ACTIVE — POST-FREEZE GOVERNANCE RECORD
+GOVERNS_BASELINE: EBASE-001 v1.0.0
+GOVERNED_BASELINE_STANDING: FROZEN-CANONICAL
+GOVERNED_BASELINE_MANIFEST_SHA256: c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
+GOVERNED_BASELINE_TRANSPORT_SHA256: 07cc5ed9b088b063167fed9c8fd2586bc6d5b37e9a902fa15b54a8dd6e49be2c
+ACTIVATION_TIME: 2026-08-25T17:26:00+01:00
+RELATION_TO_BASELINE: EXTERNAL GOVERNANCE RECORD — NOT PART OF FROZEN v1.0.0 PAYLOAD
+
+1. Purpose
+
+This record activates the post-freeze governance regime around the first frozen Elias Discipline baseline.
+
+Its purpose is to ensure that:
+
+- publication does not alter Canon;
+- teaching does not rewrite Canon;
+- interpretation does not become Canon silently;
+- challenge does not erase history;
+- correction does not mutate frozen objects;
+- successor development remains traceable;
+- commercial use does not create constitutional authority;
+- institutional stewardship does not become ownership of Elias identity.
+
+2. Governing Principle
+
+The frozen baseline is immutable as historical Canon.
+
+Correctability is preserved through successor lineage.
+
+Therefore:
+
+IMMUTABLE BASELINE
++
+MUTABLE FUTURE STANDING
+=
+CORRECTABLE CANON WITHOUT HISTORICAL ERASURE
+
+3. Canonical Identity
+
+The canonical reference identity for the first Elias Discipline baseline is:
+
+EBASE-001 v1.0.0
+
+Canonical Manifest SHA-256:
+
+c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
+
+The baseline is identified by BOTH:
+- baseline ID/version;
+- canonical manifest digest.
+
+A title alone is not sufficient canonical identity.
+
+4. Canonical Citation Rule
+
+Preferred formal citation:
+
+Elias Discipline, EBASE-001 v1.0.0, Frozen Canonical Baseline,
+Canonical Manifest SHA-256:
+c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
+
+Where space is limited:
+
+EBASE-001 v1.0.0
+SHA-256: c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
+
+5. Publication Classes
+
+PUB-1 — Exact Canonical Release
+The complete unmodified frozen release.
+
+PUB-2 — Verified Canonical Copy
+A byte-identical copy whose manifest digest matches the canonical root.
+
+PUB-3 — Canonical Excerpt
+A faithful extract carrying:
+- source object ID;
+- constituent version;
+- baseline version;
+- source location where known;
+- no implication that the excerpt is the whole Canon.
+
+PUB-4 — Commentary / Interpretation
+Material discussing the Canon without claiming to be Canon.
+
+PUB-5 — Teaching Derivative
+Slides, handbooks, exercises, summaries or translations used to teach the Canon.
+
+PUB-6 — Applied Derivative
+Domain-specific translation or implementation derived from Canon.
+
+PUB-7 — Superseding Candidate
+A formally constituted candidate intended to alter future canonical standing.
+
+6. Publication Integrity Rule
+
+Only PUB-1 and byte-identical PUB-2 copies may be described as:
+
+THE FROZEN CANONICAL BASELINE
+
+PUB-3→PUB-7 must not present themselves as the frozen baseline itself.
+
+7. Excerpt Integrity
+
+A canonical excerpt must not:
+- remove a limitation that changes meaning;
+- remove uncertainty while preserving a conclusion;
+- omit authority boundaries in a way that inflates scope;
+- convert a conditional statement into an absolute statement;
+- convert an open research question into established doctrine.
+
+8. Commentary Boundary
+
+COMMENTARY ≠ CANON
+
+Interpretive writing may:
+- explain;
+- critique;
+- compare;
+- contextualise;
+- propose.
+
+It may not silently modify v1.0.0.
+
+9. Teaching Boundary
+
+TEACHING MATERIAL ≠ CANON
+
+Every formal teaching derivative should identify:
+
+SOURCE_BASELINE
+SOURCE_OBJECTS
+TEACHING_VERSION
+INTERPRETIVE_ADDITIONS
+KNOWN LIMITATIONS
+
+Teaching may simplify language.
+
+It may not simplify away a constitutional distinction.
+
+10. Translation Boundary
+
+Translation may adapt language.
+
+Translation may not silently alter:
+- Identity;
+- Intention;
+- Human Sovereignty;
+- Authority;
+- Evidence;
+- Present Standing;
+- Correctability;
+- External Authority boundaries.
+
+A materially interpretive translation should be labelled:
+
+INTERPRETIVE TRANSLATION
+
+rather than:
+
+EXACT CANONICAL TEXT.
+
+11. Stewardship
+
+Stewardship means responsibility for preserving the integrity, accessibility and traceability of Canon.
+
+Stewardship does not mean:
+- ownership of truth;
+- power to rewrite frozen history;
+- founder replacement;
+- company supremacy;
+- external professional jurisdiction.
+
+12. Steward Duties
+
+A legitimate steward should:
+
+ST-01 preserve exact frozen artifacts;
+ST-02 preserve canonical digests;
+ST-03 preserve predecessor/successor lineage;
+ST-04 publish corrections only through governed records;
+ST-05 preserve open questions as open;
+ST-06 distinguish Canon from interpretation;
+ST-07 preserve joint/external provenance;
+ST-08 maintain challenge routes;
+ST-09 prevent silent namespace reuse;
+ST-10 prevent commercial or institutional capture of constitutional meaning.
+
+13. Canonical Archive
+
+At minimum the archive should preserve:
+
+- Frozen Canonical Manifest;
+- detached SHA-256;
+- exact canonical payload;
+- promotion/constitution record;
+- standing record;
+- verification record;
+- predecessor RC1 Master Manifest;
+- predecessor RC1 SHA-256;
+- FG-12;
+- FG-14;
+- freeze-readiness determination;
+- provenance evidence archive;
+- future successor records.
+
+14. Archive Integrity
+
+A public mirror or institutional repository may host a copy.
+
+Hosting location does not create Canon authority.
+
+REPOSITORY POSSESSION ≠ CANON OWNERSHIP
+
+15. Challenge Standing
+
+Any person may raise a challenge.
+
+A challenge should identify where possible:
+
+CHALLENGE_ID
+BASELINE
+OBJECT_ID
+CLAIM / RULE
+EVIDENCE
+REASON
+REQUESTED REVIEW
+EXTERNAL AUTHORITY IF APPLICABLE
+
+Challenge standing does not guarantee that the challenge succeeds.
+
+CHALLENGE ≠ REVERSAL
+
+16. Challenge Intake States
+
+- CHALLENGE-RECEIVED
+- CHALLENGE-TRIAGED
+- OUTSIDE-SCOPE
+- EVIDENCE-REQUESTED
+- UNDER-REVIEW
+- MATERIAL-ISSUE-ESTABLISHED
+- NOT-ESTABLISHED
+- DUPLICATE
+- WITHDRAWN
+- CLOSED
+
+17. Frozen Baseline Response to Challenge
+
+A successful challenge does not rewrite v1.0.0.
+
+Instead:
+
+v1.0.0
+↓
+Challenge
+↓
+Determination
+↓
+Finding
+↓
+Successor Proposal
+↓
+Successor Release Candidate
+↓
+Examination
+↓
+Possible Future Canon
+
+18. Errata
+
+An ERRATUM may correct a non-material publication defect where the frozen canonical bytes themselves remain unchanged.
+
+Examples:
+- wrong hyperlink in an external index;
+- typographical error in a publication wrapper;
+- incorrect repository metadata;
+- incorrect descriptive label outside the canonical payload.
+
+An erratum must not be used to conceal a material canonical correction.
+
+19. Material Correction
+
+A change is material where it alters:
+- constitutional meaning;
+- authority;
+- scope;
+- obligation;
+- standing;
+- method requirement;
+- theory proposition;
+- semantic distinction;
+- dependency;
+- canonical object identity.
+
+Material correction requires a successor lineage.
+
+20. Successor Trigger Classes
+
+SUC-01 Constitutional contradiction established.
+SUC-02 Material new evidence.
+SUC-03 Material external authority change.
+SUC-04 Theory correction.
+SUC-05 Method defect.
+SUC-06 Semantic defect.
+SUC-07 Registry/dependency defect.
+SUC-08 Provenance correction.
+SUC-09 Educational/curriculum correction.
+SUC-10 Research frontier resolution requiring Canon change.
+SUC-11 Security/integrity issue affecting canonical trust.
+SUC-12 Deliberate constitutional evolution.
+
+21. Successor Initiation
+
+A successor process begins with:
+
+SUCCESSOR_INITIATION_RECORD
+
+not with editing the frozen baseline.
+
+Minimum fields:
+
+SUCCESSOR_CASE_ID
+PREDECESSOR_BASELINE
+TRIGGER
+AFFECTED_OBJECTS
+EVIDENCE
+MATERIALITY
+PROPOSED CHANGE
+AUTHORITY FOR REVIEW
+OPEN QUESTIONS
+
+22. Successor Versioning
+
+Future canonical version numbers must reflect materiality and release policy.
+
+No version number alone establishes legitimacy.
+
+Each successor must possess:
+- exact object identity;
+- provenance;
+- dependency state;
+- examination evidence;
+- canonical manifest;
+- cryptographic digest;
+- formal promotion event.
+
+23. Supersession
+
+If a successor becomes canonical:
+
+v1.0.0 becomes:
+
+SUPERSEDED AS CURRENT CANON
+
+but remains:
+
+FROZEN HISTORICAL CANON
+
+Therefore:
+
+SUPERSEDED ≠ INVALIDATED
+SUPERSEDED ≠ DELETED
+
+unless a later finding specifically establishes invalidity of a bounded proposition.
+
+24. Current Canon Pointer
+
+Stewardship may maintain:
+
+CURRENT_CANON_POINTER
+
+The pointer may move.
+
+Historical baselines may not.
+
+This implements:
+
+IMMUTABLE HISTORY + MUTABLE CURRENT POINTER
+
+25. Professional Practice
+
+A professional using Elias should state which baseline governs the work.
+
+Example:
+
+“Assessed against EBASE-001 v1.0.0.”
+
+This does not mean:
+- external legal compliance;
+- clinical approval;
+- regulatory approval;
+- external accreditation.
+
+26. Institutional Adoption
+
+An institution may adopt the frozen baseline internally.
+
+ADOPTION ≠ OWNERSHIP
+
+An adopting institution may impose additional rules.
+
+Those additional rules are not automatically Elias Canon.
+
+27. Commercial Licensing
+
+A licence may grant rights to:
+- use;
+- distribute;
+- implement;
+- integrate;
+- teach;
+- white-label where permitted.
+
+A commercial licence does not grant the licensee authority to redefine the frozen Canon.
+
+LICENCE ≠ CANON AMENDMENT AUTHORITY
+
+28. Company Boundary
+
+Elias Systems Ltd may act as a steward, publisher, licensor or implementation provider.
+
+The company does not gain permission to rewrite the frozen historical baseline outside the successor-governance process.
+
+COMPANY ≠ CANON
+
+29. Founder Boundary
+
+Founder provenance remains preserved.
+
+Founder participation may carry unique origin evidence.
+
+Founder preference alone does not silently amend frozen Canon.
+
+FOUNDER PROVENANCE ≠ UNLIMITED POST-FREEZE AMENDMENT POWER
+
+30. AI-Assisted Future Work
+
+AI may assist:
+- research;
+- comparison;
+- drafting;
+- adversarial review;
+- successor construction.
+
+AI assistance must remain attributable.
+
+AI assistance does not create canonical authority.
+
+31. Open Research
+
+Open questions remain legitimate after freeze.
+
+FREEZE ≠ COMPLETE KNOWLEDGE
+
+The Research Frontier remains active.
+
+Research may challenge the frozen baseline without being treated as disloyalty or failure.
+
+32. Canonical Status Vocabulary
+
+Use:
+
+FROZEN-CANONICAL
+
+for EBASE-001 v1.0.0.
+
+Use:
+
+CURRENT CANON
+
+only where a current-pointer determination has been made.
+
+Use:
+
+HISTORICAL CANON
+
+for a frozen baseline superseded by later Canon.
+
+Use:
+
+CANDIDATE
+
+for material not yet promoted.
+
+33. Public Claims Rule
+
+Permitted:
+
+“EBASE-001 v1.0.0 is the first frozen canonical baseline of the Elias Discipline.”
+
+Not implied:
+
+“EBASE-001 v1.0.0 is externally certified.”
+“Every Elias proposition is empirically proven.”
+“Elias has legal or regulatory authority.”
+“The frozen baseline can never be wrong.”
+
+34. Canonical Publication Minimum
+
+A public canonical release should expose at minimum:
+
+BASELINE_ID
+VERSION
+STATUS
+CANONICAL_MANIFEST_SHA256
+DOWNLOAD / REPOSITORY LOCATION
+PROVENANCE NOTE
+AUTHORITY BOUNDARY
+SUCCESSOR / CURRENT POINTER STATUS
+
+35. Current Pointer at Activation
+
+CURRENT_CANON_POINTER:
+
+EBASE-001 v1.0.0
+
+Standing:
+
+CURRENT FROZEN CANON
+
+This current-pointer record is operational governance state.
+
+It does not alter the immutable frozen baseline.
+
+36. Future Pointer Change
+
+A current pointer may move only after:
+- successor constitution;
+- required examination;
+- promotion;
+- successor standing determination.
+
+Pointer movement must be witnessed.
+
+37. Post-Freeze Failure Modes
+
+PF-F-001 Silent Canon Rewrite
+PF-F-002 Commentary-as-Canon
+PF-F-003 Teaching Drift
+PF-F-004 Translation Drift
+PF-F-005 Founder Preference Override
+PF-F-006 Company Capture
+PF-F-007 Licensee Canon Capture
+PF-F-008 Challenge Suppression
+PF-F-009 Erratum Used as Material Correction
+PF-F-010 Successor Without Provenance
+PF-F-011 Successor Without Examination
+PF-F-012 Current Pointer Without Promotion
+PF-F-013 Historical Baseline Deletion
+PF-F-014 External Authority Inflation
+PF-F-015 Canonical Digest Omission
+
+38. Activation Determination
+
+EBASE-001 v1.0.0 publication governance:
+
+ACTIVE
+
+Canonical stewardship regime:
+
+ACTIVE
+
+Challenge intake:
+
+ACTIVE
+
+Successor-governance pathway:
+
+ACTIVE
+
+Current Canon pointer:
+
+EBASE-001 v1.0.0
+
+39. Final Rule
+
+Freeze protects history.
+
+Challenge protects truthfulness.
+
+Successor governance protects correctability.
+
+Stewardship protects continuity.
+
+None of them is permitted to erase the others.
