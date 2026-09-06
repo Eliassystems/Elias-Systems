@@ -1,0 +1,44 @@
+DOCUMENT_ID: EBASE-001-PUBLIC-CLAIMS-BOUNDARY-001
+TITLE: Elias Discipline v1.0.0 — Public Claims & Authority Boundary
+STATUS: PUBLIC REFERENCE DERIVATIVE
+SOURCE_BASELINE: EBASE-001 v1.0.0
+CANONICAL_MANIFEST_SHA256: c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
+
+PERMITTED BOUNDED STATEMENTS
+
+- EBASE-001 v1.0.0 is the first frozen canonical baseline of the Elias Discipline.
+- The baseline contains 55 manifest-level canonical objects.
+- The baseline includes 21 foundational theories.
+- The method registry contains 30 methods: 1 Core + 29 Specialist.
+- The curriculum contains six levels.
+- The baseline preserves uncertainty as an admissible state.
+- The baseline distinguishes capability from authority.
+- The baseline preserves human sovereignty and external-authority boundaries.
+- The baseline passed defined internal FG-12 and FG-14 examinations before freeze.
+
+NOT IMPLIED / NOT PERMITTED WITHOUT SEPARATE EVIDENCE
+
+- externally certified;
+- regulator approved;
+- legally authoritative;
+- clinically approved;
+- accredited by an external professional body;
+- empirically proven in every application domain;
+- universally correct;
+- immune from future challenge;
+- proof that every Elias product conforms to the baseline;
+- proof that a licensee has authority to alter Canon.
+
+GOVERNING RULE
+
+FROZEN-CANONICAL
+≠
+EXTERNAL CERTIFICATION
+≠
+EXTERNAL JURISDICTION
+
+and:
+
+CANONICAL COHERENCE
+≠
+UNIVERSAL EMPIRICAL PROOF
