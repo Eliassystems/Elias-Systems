@@ -120,4 +120,3 @@ M055 | EDEP-002 | v0.2 | P06
 
 RULE:
 This index is not a substitute for the frozen canonical manifest.
-Delete everything and put that in there, yeah?
