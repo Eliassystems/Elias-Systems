@@ -464,25 +464,21 @@ Research may challenge the frozen baseline without being treated as disloyalty o
 Use:
 
 FROZEN-CANONICAL
-
 for EBASE-001 v1.0.0.
 
 Use:
 
 CURRENT CANON
-
 only where a current-pointer determination has been made.
 
 Use:
 
 HISTORICAL CANON
-
 for a frozen baseline superseded by later Canon.
 
 Use:
 
 CANDIDATE
-
 for material not yet promoted.
 
 33. Public Claims Rule
