@@ -1,0 +1,83 @@
+DOCUMENT_ID: EBASE-001-PUBLIC-VERIFY-001
+TITLE: How to Verify EBASE-001 v1.0.0
+STATUS: PUBLIC REFERENCE DERIVATIVE
+SOURCE_BASELINE: EBASE-001 v1.0.0
+
+1. Canonical Identity
+
+Canonical Manifest SHA-256:
+
+c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
+
+2. Verification Procedure
+
+A. Obtain the claimed EBASE-001 v1.0.0 release.
+B. Locate:
+
+FROZEN_CANONICAL_MANIFEST.txt
+
+C. Compute its SHA-256.
+D. Compare the result with:
+
+c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
+
+E. If the value differs:
+
+DO NOT TREAT THE RELEASE AS A VERIFIED EXACT COPY OF EBASE-001 v1.0.0.
+
+3. Object Verification
+
+For deeper verification:
+
+- read the 55 object records in the frozen canonical manifest;
+- locate each canonical payload object;
+- compute its SHA-256;
+- compare the result to the manifest entry;
+- verify all 55 objects.
+
+4. Package Verification
+
+The canonical manifest also binds six package-manifest roots.
+
+Each package root should be recomputed and matched.
+
+5. What SHA-256 Establishes
+
+A matching digest establishes byte-level integrity relative to the declared canonical object.
+
+It does not establish:
+
+TRUTH
+LEGITIMACY
+EMPIRICAL VALIDITY
+EXTERNAL CERTIFICATION
+EXTERNAL AUTHORITY
+
+Therefore:
+
+HASH INTEGRITY ≠ TRUTH
+
+6. Public Copy Vocabulary
+
+Use:
+
+VERIFIED CANONICAL COPY
+
+only after successful digest verification.
+
+Use:
+
+UNVERIFIED COPY
+
+where verification has not been performed.
+
+Use:
+
+DERIVATIVE
+
+for summaries, teaching materials, translations, applications or commentary.
+
+7. Canonical Reference
+
+EBASE-001 v1.0.0
+SHA-256: c05a9a900d9f1562790f9bc550fa79dd00733ef2aaf2aca0499266a51dd82163
