@@ -1,0 +1,13 @@
+SCGA Examination Architecture Review Package v0.4
+Package root SHA-256:
+cbf6311019506e1332942b8094bf80aafc5b632f4b1ff13d34b0165ae35092a5
+
+ZIP SHA-256:
+ac60830959a02007fd8c2d9f35c0eacb5e9c11f6abd95a10fda0570d1999c921
+
+Frozen stopping-rule SHA-256:
+f9408ec60d216bbc7b7f3f12a5b1e9709efa9def3dc57b75cf78907013378f8b
+Predecessor v0.3 root:
+25c8def8a16846a8c87144604f6fe79638384136bb6597affa7623ad5216bf7b
+v0.3 review SHA-256:
+b99de4bd62a8bb0bf4054ecd506ddc87ba457a5e9cc96c01227873e3f4482f34
