@@ -1,0 +1,19 @@
+SCGA Examination Architecture Review Package v0.6
+
+Package root SHA-256:
+97bf5931dc9c3ec25781299df85235866341f7fc1f733703288e9cfd869493af
+
+ZIP SHA-256:
+b956b8c80cd3c5611ffae31b9880153adb5f4d627aa30f7a32eb804f8709e89f
+
+Frozen Stopping Rule v1.0 SHA-256:
+f9408ec60d216bbc7b7f3f12a5b1e9709efa9def3dc57b75cf78907013378f8b
+
+Predecessor v0.5 package root:
+5c6626687b5f0a608cab4d1c33f035e5b62913949257d67ad1698cc4f2f6ea75
+
+Predecessor v0.5 ZIP SHA-256:
+7e0bcbbcd4c3b900b1d8e88cb2b6f4eae5ec96c36079b901d5567a519308932d
+
+Constituent files covered by package root: 18
+Manifest file is included in the ZIP but, as in the predecessor root algorithm, is not self-hashed into the package root.
