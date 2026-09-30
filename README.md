@@ -14,6 +14,22 @@ An AI system being technically capable of performing an action does not, by itse
 
 ---
 
+## Latest Public Successor Record
+
+### v1.2.0 — Governed AI Runtime & Evidence Record
+
+The latest public successor record documents the transition from architecture and bounded reference layers into a working governed AI system examined across memory, historical evidence, runtime authority, database restraint, recovery, request/session hardening, live source alignment and local production-readiness.
+
+Public release record:
+
+**[EIE-PUBLIC-RELEASE-RECORD-v1.2.0.md](EIE-PUBLIC-RELEASE-RECORD-v1.2.0.md)**
+
+The record is deliberately bounded. It does not publish proprietary implementation internals and does not claim that public deployment, DNS or real TLS identity have yet been established.
+
+The deployment boundary remains fail-closed until real external identity exists.
+
+---
+
 ## What We Build
 
 Elias Systems develops governance infrastructure including:
