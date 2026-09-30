@@ -14,6 +14,23 @@ For the governing repository-wide boundary, see [LICENSING.md](LICENSING.md).
 
 ---
 
+# Current Public Successor Record
+
+## Elias Systems — Governed AI Runtime & Evidence Record v1.2.0
+
+**Version:** v1.2.0  
+**Publication Date:** 30 September 2026  
+**Availability Status:** EVIDENCE RECORD / PUBLIC  
+**Record:** [EIE-PUBLIC-RELEASE-RECORD-v1.2.0.md](EIE-PUBLIC-RELEASE-RECORD-v1.2.0.md)
+
+This successor record documents the progression from public architecture and bounded reference surfaces into a working governed AI system examined across memory, historical evidence, runtime database authority, recovery, request/session hardening, live source alignment and local production-readiness.
+
+The record preserves explicit non-claims. Public domain, DNS, real TLS identity and external post-deployment verification are not represented as established.
+
+Publication of this record does not disclose or license proprietary Elias implementation internals.
+
+---
+
 ## Publication Categories
 
 Elias Systems publications may include:
