@@ -1,0 +1,91 @@
+﻿ELIAS SYSTEMS
+EMOTIONAL PROGRAMMING LAYER
+EPL v0.2
+
+RELEASE CLAIM BOUNDARY
+CANONICAL FREEZE 001
+
+STATUS:
+ESTABLISHED_WITHIN_BOUNDED_SCOPE
+
+EVIDENCE BASIS:
+17 / 17 PREDETERMINED TESTS PASS
+0 FAIL
+0 HOLD
+
+24 / 24 PREDETERMINED REQUIREMENTS:
+ESTABLISHED_WITHIN_BOUNDED_TEST_SCOPE
+
+AUTHORITATIVE RUNTIME:
+EPL-v0.2-STANDALONE-RUNTIME-v0.2
+
+RUNTIME SHA-256:
+B370DE8D6EB7604155F392E96E639EC04F3DCB852ECEEF8A635043255F49E425
+
+CONFORMANCE DETERMINATION SHA-256:
+0CCB06A967D8BEC1889B0E8CD1906D7965CB657D86E9F47371C84E49ED8B0164
+
+ESTABLISHED WITHIN THE FROZEN TESTED SCOPE:
+
+- standalone identity and bounded portability;
+- direct-report preservation;
+- observation / interpretation separation;
+- inference boundaries;
+- uncertainty preservation;
+- conflict preservation;
+- human dignity preservation;
+- contextual harm evaluation in the tested case;
+- repair orientation without false agreement;
+- human agency preservation;
+- trauma-aware non-diagnostic boundaries;
+- no forced reliving or shame-based control in the tested boundary;
+- pattern / diagnosis separation;
+- truth-preserving response calibration;
+- interpretation / execution-authority separation;
+- input/output traceability;
+- explicit epistemic transitions;
+- controlled structural comparison;
+- bounded evidence reconstructability;
+- claim confinement;
+- successor integrity;
+- no silent state conversion in the tested scenarios.
+
+NOT ESTABLISHED:
+
+- perfect emotional intelligence;
+- consciousness;
+- genuine human emotion;
+- therapy;
+- clinical psychology;
+- clinical diagnosis;
+- mind reading;
+- moral perfection;
+- guaranteed harm prevention;
+- guaranteed healing;
+- universal correctness;
+- exhaustive emotional-scenario coverage;
+- global superiority;
+- external performance superiority;
+- independent execution authority;
+- permission for consequential external action;
+- universal portability across every platform or environment.
+
+CAPABILITY DOES NOT EQUAL AUTHORITY.
+INTERPRETATION DOES NOT EQUAL AUTHORITY.
+EMOTIONAL CONTEXT DOES NOT EQUAL FACT.
+PATTERN DOES NOT EQUAL DIAGNOSIS.
+CARE DOES NOT REQUIRE FALSE AGREEMENT.
+UNCERTAINTY IS AN ADMISSIBLE STATE.
+
+The canonical freeze is the full evidentiary object.
+
+A smaller public GitHub distribution may subsequently be derived
+without modifying this frozen canonical evidence chain.
+
+NO RETROSPECTIVE REPAIR AUTHORISED.
+
+LOCK IT.
+LOG IT.
+PROVE IT.
+
+END RELEASE CLAIM BOUNDARY
